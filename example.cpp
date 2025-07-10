@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "knapsack.hpp"  // Assuming all knapsack classes are in this header
+#include "knapsack.hpp" 
 
 using namespace knapsack;
 
