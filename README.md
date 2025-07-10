@@ -233,6 +233,13 @@ g++ -std=c++17 -O2 -o knapsack knapsack.cpp
     #define STEP_QUANTITY               1
     #define STEP_CAPACITY               100
     ```
+
+13. If your benchmark is slow, you can disable brute force
+    ```cpp
+    #define DISABLE_BRUTE_FORCE         true
+    // you can change it to "true" or "false"
+    ```
+
 ---
 
 ## 📌 Research and Academic Use
