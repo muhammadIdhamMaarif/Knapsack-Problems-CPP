@@ -9,7 +9,7 @@ This repository provides a **comprehensive C++ implementation** of all major **K
 ```
 📦 knapsack-solver/
 ├── knapsack.cpp       # All algorithm implementations and main()
-├── example.cpp        # The usage of the class
+├── example.cpp        # The example usage of the class
 └── knapsack.hpp       # Abstract class: KnapsackBase and derived headers
 ```
 
